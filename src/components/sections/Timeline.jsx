@@ -38,7 +38,7 @@ const TimeLine = () => {
   
   const events = [
     {
-      date: "2 SEP, 2024",
+      date: "2 SEP, 2025",
       title: "HACKATHON ANNOUNCED",
       description: "Ambition 2.0 is officially announced! Get ready for an incredible 24-hour hackathon experience. Stay tuned for more details and updates!",
       icon: "📢",
@@ -47,7 +47,7 @@ const TimeLine = () => {
       status: "completed"
     },
     {
-      date: "8 SEP, 2024",
+      date: "8 SEP, 2025",
       title: "REGISTRATION BEGINS",
       description: "Registration is now open! Don't miss your chance to be part of this amazing hackathon. Register your team and secure your spot today!",
       icon: "📝",
@@ -56,7 +56,7 @@ const TimeLine = () => {
       status: "completed"
     },
     {
-      date: "18 SEP, 2024",
+      date: "18 SEP, 2025",
       title: "REGISTRATION CLOSES",
       description: "Last chance to register! Registration closes today. Make sure you've submitted your team details and are ready for the hackathon!",
       icon: "⏰",
@@ -65,7 +65,7 @@ const TimeLine = () => {
       status: "completed"
     },
     {
-      date: "20 SEP, 2024",
+      date: "20 SEP, 2025",
       title: "HACKING BEGINS",
       description: "The main event starts! 24 hours of intense coding, innovation, and creativity. Teams will work together to build amazing projects and compete for prizes!",
       icon: "🚀",
